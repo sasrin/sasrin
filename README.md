@@ -1,6 +1,6 @@
 🚀 Sasrin | DevOps Enthusiast & Software Engineer
 
-👨‍💻 Passionate about DevOps, cloud computing, and software development
+👨‍💻 Passionate about DevOps, cloud computing
 
 🎓 Higher Diploma in Computing and Software Engineering – CMU
 
